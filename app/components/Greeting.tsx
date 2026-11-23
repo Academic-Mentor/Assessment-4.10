@@ -2,7 +2,7 @@
 //         type Props = { name: string };
 // TODO 2: Give this component a typed, destructured parameter: ({ name }: Props)
 // TODO 3: Render {name} inside the JSX (replace the placeholder below).
-
+  
 type Props = {
   name: string;
 };
